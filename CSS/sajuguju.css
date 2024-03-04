@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+SC:ital,wght@1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap");
+
+body {
+  height: 100vh;
+}
+
+.container {
+  margin: 5% auto;
+}
+.toplabel {
+  font-size: 17px;
+  font-family: "Roboto Slab", serif;
+  color: #dc143c;
+}
+form {
+  width: 100%;
+}
+.label {
+  font-family: "Alegreya SC", serif;
+  font-size: 18px;
+}
+
+.input {
+  font-family: "Alegreya", serif;
+  font-size: 20px;
+}
+.submit {
+  font-size: 16px;
+  font-family: "Roboto Slab", serif;
+  padding: 10px 50px 10px 50px;
+}
+tr th {
+  font-size: 17px;
+  font-family: "Roboto Slab", serif;
+}
+.UpdateButton {
+  font-size: 15px;
+  font-family: "Roboto Slab", serif;
+  padding: 3px 10px 3px 10px;
+}
+.DeleteButton {
+  font-size: 15px;
+  font-family: "Roboto Slab", serif;
+  padding: 3px 10px 3px 10px;
+}
+.FindButton {
+  font-size: 12px;
+  font-family: "Roboto Slab", serif;
+  padding: 5px 15px 5px 15px;
+  margin: auto;
+}
+/* .pb {
+  font-size: 17px;
+  font-family: "Roboto Slab", serif;
+  color: #dc143c;
+} */
